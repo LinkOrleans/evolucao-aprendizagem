@@ -5,8 +5,8 @@ Utilizando a matriz KWL (Know, Want to Know, Learned), refletirei sobre minha ev
 ## Front-end (Desenvolvimento Web) <hr>
 | Sei | Quero Saber | Aprendi |
 |-----|-------------|---------|
-| Como funciona a base para a estruturação de páginas web com HTML e CSS | Como fazer a integração do Frontend com o Backend uma aplicação | - |
-| Conhecimento sobre grande partes das tags e as mais utilizadas no HTML | Como integrar aplicações Frontend com APIs de serviços externas | - |
+| Como funciona a base para a estruturação de páginas web com HTML e CSS | Como fazer a integração do Frontend com o Backend numa aplicação | - |
+| Conhecimento sobre grande partes das tags e as mais utilizadas no HTML | Como integrar aplicações Frontend com APIs de serviços externos | - |
 | Conhecimento sobre grande parte das propriedades e atributos no CSS | Como utilizar Frameworks de CSS e JavaScript numa aplicação Frontend | - |
 | Conhecimento de controle de versão utilizando o GIT | Como integrar o JavaScript ao HTML e CSS para fornecer interatividade | - |
-| Como utilizar seletores para atribuir estilizações específicas no CSS | Como criar uma página web inteira utilizando tanto o Backend, quanto o Frontend | - |
+| Como utilizar seletores para atribuir estilizações específicas no CSS | Como criar uma página web inteira utilizando tanto o Backend quanto o Frontend | - |
